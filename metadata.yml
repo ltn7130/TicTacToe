@@ -1,0 +1,12 @@
+---
+:id: 102225173
+:submitters:
+- :name: Le Tran Thanh Nguyen
+  :email: ltn@clemson.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-27 02:52:48.558260000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-26 18:52:48.558260000 Z
+:status: processed
+:score: 100.0
